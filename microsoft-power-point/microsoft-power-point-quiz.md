@@ -256,3 +256,16 @@ Personal Hint: There are multiple file suffixes for templates (.potx, .potm, .po
 - [ ] Renumber the slides in Outline view.
 - [ ] Move the slides in the Slide Sorter view.
 - [ ] Reset the slide footers.
+
+#### Q39. How can you format the entire contents of a text box?
+- [ ] Click the dashed/dotted border of the text box.
+- [ ] Double-click any word in the text box.
+- [ ] Right-click the text box and select Select All.
+- [ ] Click the Font button on the Home Tab.
+
+#### Q40. You want to print full-page slides to fill 8.5-by-11-inch paper, but they appear too small in the preview. What is the best way to rectify this?
+- [ ] Repeatedly bump up the scale setting print option until it fills the page in the preview
+- [ ] Change the scale settings print option to 100%
+- [ ] Change the slide size to standard.
+- [ ] Select the Scale to Fit Paper print option.
+
